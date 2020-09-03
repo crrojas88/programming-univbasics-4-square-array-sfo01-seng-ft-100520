@@ -1,5 +1,8 @@
 def square_array(array)
-  wihle 
+  i = 0
+  while i < array.length do
+    
+  end
   
   end
 end
